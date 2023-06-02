@@ -1,0 +1,485 @@
+@media only screen and (min-width: 530px) and (max-width: 1060px) {
+   .tuvan{
+      display: none;
+   }
+   .banhet{
+      font-size: 1.5rem;
+   }
+     
+}
+
+@media only screen and (min-width: 530px) and (max-width: 860px) {
+   nav {
+      position: fixed !important;
+      top: 0px;
+      left: 0;
+      width: 100%;
+      display: flex;
+      padding: 10px;
+      z-index: 1;
+      justify-content: space-around;
+   }
+   .bi-house-fill {
+      display: inline-block;
+      color: white;
+   }
+   nav .content-nav ul .an1 {
+      display: none;
+   }
+   nav .content-nav ul .an2 {
+      display: inline-block;
+      font-size: 13px;
+   }
+
+   button #cart {
+      margin-right: 5rem;
+   }
+
+   .content-nav,
+   .item_menu form button {
+      right: 10px;
+   }
+   #carouselExampleCaptions{
+      top: 10rem;
+   }
+   /* wrapper */
+   .banhet{
+      font-size: 2rem;
+   }
+   .wrapper {
+      padding: 1rem;
+   }
+
+   .products {
+      margin-top: 10rem;
+   }
+
+   .products ul .main-product {
+      width: calc(50% - 4rem);
+   }
+   .gioithieuweb{
+      display: inline-flex;
+      margin-left: 7rem;
+      margin-top: -0.5rem;
+   }
+   .email{
+      margin-left: 6rem;
+   }
+   .img-footer img{
+      display: none;
+   }
+   .hotro{
+      margin-left: 7rem;
+      margin-top: -0.5rem;
+   }
+
+
+   /* modal */
+   .modal-content {
+      width: 95%;
+   }
+
+   .cart-item-title {
+      font-size: 1.5rem;
+      font-weight: 600;
+
+   }
+
+   .cart-column {
+      margin-right: 0.5em;
+   }
+
+   .cart-price {
+      margin-right: 1rem;
+   }
+
+   #cart {
+      margin: 0.5rem;
+      padding: 3px;
+   }
+   .email{
+      margin-left: 0rem;
+      font-size: 1.2rem;
+   }
+   .hotro{
+      font-size: 1.3rem;
+      margin-left: 4.5rem;
+   }
+   .gioithieuweb{
+      font-size: 1.3rem;
+      margin-left: 4.5rem;
+   }
+   
+}
+@media only screen and (min-width: 530px) and (max-width: 680px) {
+   nav {
+      position: fixed !important;
+      top: 0px;
+      left: 0;
+      width: 100%;
+      display: flex;
+      padding: 10px;
+      z-index: 1;
+      justify-content: space-around;
+   }
+   .bi-house-fill {
+      display: inline-block;
+      color: white;
+   }
+   nav .content-nav ul .an1 {
+      display: none;
+   }
+   nav .content-nav ul .an2 {
+      display: inline-block;
+      font-size: 13px;
+   }
+   .img-nav {
+      display: none;
+   }
+   button #cart {
+      margin-right: 5rem;
+   }
+
+   .content-nav,
+   .item_menu form button {
+      right: 10px;
+   }
+   #carouselExampleCaptions{
+      top: 10rem;
+   }
+   /* wrapper */
+
+   .wrapper {
+      padding: 1rem;
+   }
+
+   .products {
+      margin-top: 15%;
+   }
+
+   .products ul .main-product {
+      width: calc(50% - 2rem);
+   }
+
+   /* modal */
+   .modal-content {
+      width: 95%;
+   }
+
+   .cart-item-title {
+      font-size: 1.5rem;
+   }
+
+   .cart-column {
+      margin-right: 0.5em;
+   }
+
+   .cart-price {
+      margin-right: 1rem;
+   }
+
+   #cart {
+      margin: 0.5rem;
+      padding: 3px;
+   }
+}
+.img-footer img{
+   display: none;
+}
+.price {
+   font-size: 1.8rem;
+}
+.gia{
+   font-size: 1.2rem;
+}
+
+/*<530*/
+@media only screen and (min-width: 350px) and (max-width: 530px) {
+   nav {
+      position: fixed !important;
+      top: 0px;
+      left: 0;
+      width: 100%;
+      display: flex;
+      padding: 10px;
+      z-index: 1;
+      justify-content: space-around;
+   }
+   .bi-house-fill {
+      display: inline-block;
+      color: white;
+      margin: auto;
+      font-size: 2.9rem;
+   }
+   nav .content-nav ul .an1 {
+      display: none;
+   }
+   nav .content-nav ul .an2 {
+      display: none;
+      font-size: 10px;
+   }
+   .bi-house-fill {
+      display: inline-block;
+   }
+   nav .content-nav ul .an1 {
+      display: none;
+   }
+   nav .content-nav ul .an2 {
+      display: none;
+   }
+
+   .img-nav {
+      display: none;
+   }
+
+   .img-nav img {
+      padding-top: 0.5rem;
+      vertical-align: middle;
+      width: 100%;
+   }
+   nav form {
+      margin: auto;
+      height: auto;
+      margin-left: -1rem;
+      }
+     nav form .fa-search {
+      display: none;
+   }
+   .bi-person-circle{
+      margin-left: -3rem;
+   }
+   .content-nav,
+   .item_menu form button {
+      margin-right: -5rem;
+   }
+   #carouselExampleCaptions{
+      margin-top: 10rem;
+   }
+
+   /* wrapper */
+
+   .wrapper {
+      padding: 1rem;
+   }
+
+   .products {
+      margin-top: 1rem;
+      width: 80%;
+      margin-left: 3.7rem;
+   }
+
+   .products ul .main-product {
+      width: 100%;
+   }
+
+   /* modal */
+   .modal-content {
+      width: 95%;
+   }
+.cart-item-image {
+   width: 5rem;
+   height: auto;
+}
+   .cart-item-title {
+      font-size: 0.9em;
+      font-weight: bold;
+      
+   }
+
+   .cart-column {
+      font-size: 1.3rem;
+      
+   }
+
+   .cart-price {
+      margin-right: 0.5rem;
+      font-size: 1.2rem;
+      
+   }
+   #quantityInput{
+      font-size: 1.2rem;
+      height: 20px;
+      width: 25px;
+      margin-left: 1.5rem;
+   }
+   .btn-danger{
+      width: 35px;
+      height: 21px;
+   }
+
+
+   #cart {
+      margin: 0.5rem;
+      padding: 3px;
+   }
+   .content-footer{
+      display: none;
+   }
+   .gioithieuweb{
+      display: inline-block;
+      margin-left: 1rem;
+   }
+   .hotro{
+      margin-left: 1rem;
+   }
+   .price {
+      font-size: 1.7rem;
+   }
+   .gia{
+      font-size: 1.2rem;
+   }
+}
+@media screen and (min-width:350px) and (max-width:420px) {
+   #carouselExampleCaptions{
+      margin-top: 9rem;
+   }
+}
+   
+
+
+/*<350*/
+@media only screen and (min-width: 0px) and (max-width: 350px) {
+   nav {
+      position: fixed !important;
+      top: 0px;
+      left: 0;
+      width: 100%;
+      display: flex;
+      padding: 10px;
+      z-index: 1;
+      justify-content: space-around;
+   }
+   .bi-house-fill {
+      display: inline-block;
+      color: white;
+      margin: auto;
+      font-size: 2.7rem;
+      margin-right: -1rem;
+   }
+   nav .content-nav ul .an1 {
+      display: none;
+   }
+   nav .content-nav ul .an2 {
+      display: none;
+      font-size: 10px;
+   }
+   .bi-house-fill {
+      display: inline-block;
+   }
+   nav .content-nav ul .an1 {
+      display: none;
+   }
+   nav .content-nav ul .an2 {
+      display: none;
+   }
+
+   .img-nav {
+      display: none;
+   }
+
+   .img-nav img {
+      padding-top: 0.5rem;
+      vertical-align: middle;
+      width: 100%;
+   }
+   nav form {
+      margin: auto;
+      height: auto;
+      margin-left: -1rem;
+      }
+     nav form .fa-search {
+      display: none;
+   }
+   .bi-person-circle{
+      margin-left: -4rem;
+   }
+   .content-nav,
+   .item_menu form button {
+      margin-right: -5rem;
+   }
+   #carouselExampleCaptions{
+      margin-top: 11rem;
+   }
+   /* wrapper */
+
+   .wrapper {
+      padding: 1rem;
+   }
+
+   .products {
+      margin-top: 0rem;
+      width: 80%;
+      margin-left: 3rem;
+   }
+
+   .products ul .main-product {
+      width: 100%;
+   }
+
+   /* modal */
+   .modal-content {
+      width: 95%;
+   }
+
+   .cart-item-title {
+      font-size: 0.9em;
+      font-weight: bold;
+      
+   }
+
+   .cart-column {
+      font-size: 1.3rem;
+      
+   }
+
+   .cart-price {
+      margin-right: 0.5rem;
+      font-size: 1.2rem;
+      
+   }
+   #quantityInput{
+      font-size: 1.2rem;
+      height: 20px;
+      width: 25px;
+      margin-left: 1.5rem;
+   }
+   .btn-danger{
+      width: 35px;
+      height: 21px;
+   }
+   #cart {
+      margin: 0.5rem;
+      padding: 3px;
+   }
+   .tuvan{
+      display: none;
+   }
+   .email{
+      display: none;
+   }
+   .hotro{
+      font-size: 1.2rem;
+      margin-left: 1rem;
+   }
+   .hotro .imgthanhtoan img{
+      height: auto;
+      width: 2rem;
+   }
+   .gioithieuweb{
+      display: inline-block;
+      font-size: 1.2rem;
+      margin-left: 3rem;
+   }
+   .price {
+      font-size: 1.5rem;
+   }
+   .gia{
+      font-size: 1rem;
+   }
+}
+
+@media screen and (min-width:350px) and (max-width:380px) {
+   #carouselExampleCaptions{
+      margin-top: 12rem;
+   }
+}
